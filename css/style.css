@@ -1,0 +1,72 @@
+ html {
+
+ 	position: relative;
+ }
+
+ body {
+
+ 	margin-bottom: 100px;
+ 	margin-top: 10px;
+ }
+ .jumbotron {
+ 
+ 	background-image: url('../img/anonymous-4k-ok-1366x768.jpg');
+ 	background-size: cover;
+ 	background-attachment: fixed;
+ 	color: #eaeaea;
+ }
+
+ 
+
+
+ .jumbotron img {
+	width: 300px;
+	border: 5px solid #eaeaea;
+	box-shadow: 1px 1px rgba(0,0,0,0.5);
+}
+
+.jumbotron h1, .jumbotron p{
+	text-shadow: 1px 1px rgba(0,0,0,0.5);
+}
+
+  hr {
+	width: 150px;
+	border-top: 2px solid #999;
+}
+
+section {
+
+	min-height: 100px;
+	margin-top: 100px;
+}
+
+.Foto {
+	background-color: #204c43;
+	color: black;
+}
+
+.Kontak{
+	min-height: 700px;
+}
+
+footer {
+
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height :100px;
+	background-color: #33334d;
+	padding-top: 15px;
+}
+footer p {
+	font-size: 15px;
+	color: black;
+}
+footer p i {
+	color: #ff0000;
+
+}
+p {
+	font-size: 19px;
+}
+
